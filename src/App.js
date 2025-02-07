@@ -6,7 +6,16 @@ import song from './assets/Aylex_Sounds_of_Nature.mp3'
 import onBike from './assets/onBike.jpeg'
 import withKinderJoy from './assets/withKinderJoy.jpeg'
 import onThighs from './assets/onThighs.jpeg'
-
+import firstDate from './assets/firstDate.jpeg'
+import windsong from './assets/windsong.jpeg'
+import carSelfie from './assets/carSelfie.jpeg'
+import onThighs2 from './assets/onThighs2.jpeg'
+import cake1 from './assets/cake1.jpeg'
+import hmBar from './assets/hmBar.jpeg'
+import gym from './assets/gym.jpeg'
+import carSelfieSmiling from './assets/carSelfieSmiling.jpeg'
+import scooty from './assets/scooty.jpeg'
+import cake2 from './assets/cake2.jpeg'
 
 const cards = [
   { 
@@ -16,7 +25,7 @@ const cards = [
   },
   { 
     title: "When You Miss Me", 
-    image: withKinderJoy, 
+    image: windsong, 
     message: "Close your eyes and feel my love wrapping around you like a warm hug. No matter how far apart we are, my heart is always next to yours."
   },
   { 
@@ -26,37 +35,37 @@ const cards = [
   },
   { 
     title: "When You Need a Smile", 
-    image: "/smile.jpg", 
-    message: "Imagine me telling a really bad joke right now. (Insert a funny inside joke here!) See? You’re smiling already. You’re the most beautiful when you do."
+    image: carSelfieSmiling, 
+    message: "Imagine me telling a really bad joke right now. (You are the number 1 queen!) See? You’re smiling already. You’re the most beautiful when you do."
   },
   { 
     title: "When You Are Feeling Down", 
-    image: "/down.jpg", 
+    image: scooty,
     message: "You are the light of my life, and no amount of darkness can ever dim your shine. I love you more than words can ever say."
   },
   { 
     title: "When You Need Motivation", 
-    image: "/motivation.jpg", 
+    image: onThighs2, 
     message: "You are capable of incredible things. I’ve seen your strength, your passion, and your kindness. Keep going, my love—I’m cheering for you every step of the way!"
   },
   { 
     title: "When You Want to Feel Loved", 
-    image: "/loved.jpg", 
+    image: cake2, 
     message: "If love could be measured, mine for you would reach beyond the stars. You are my everything, and I fall for you more every day."
   },
   { 
     title: "When You Can’t Sleep", 
-    image: "/sleep.jpg", 
+    image: hmBar,
     message: "Imagine me whispering a soft lullaby in your ear, telling you how much I love you. Close your eyes, my love, and dream of us."
   },
   { 
     title: "When You Need a Warm Hug", 
-    image: "/hug.jpg", 
+    image: gym, 
     message: "Wrap yourself in a blanket and imagine it’s my arms holding you tight. One day soon, it won’t be imaginary—I’ll be there for real."
   },
   { 
     title: "When You Want to Hear My Voice", 
-    image: "/voice.jpg", 
+    image: firstDate, 
     message: "Play our favorite song and imagine me singing along with you. My love is in every lyric, in every note, in every beat of my heart."
   }
 ];
