@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/valentines_day_25/static/css/main.da28c40f.css",
-    "main.js": "/valentines_day_25/static/js/main.f8a396bf.js",
+    "main.css": "/valentines_day_25/static/css/main.8c503a44.css",
+    "main.js": "/valentines_day_25/static/js/main.e140feaf.js",
     "static/media/Aylex_Sounds_of_Nature.mp3": "/valentines_day_25/static/media/Aylex_Sounds_of_Nature.02577395af0b48cdba81.mp3",
     "static/media/onBike.jpeg": "/valentines_day_25/static/media/onBike.eb94ac6c30eb96be0275.jpeg",
     "static/media/withKinderJoy.jpeg": "/valentines_day_25/static/media/withKinderJoy.f083bc0d9b87019273dc.jpeg",
     "static/media/onThighs.jpeg": "/valentines_day_25/static/media/onThighs.ecf61dd23a81008b4614.jpeg",
     "index.html": "/valentines_day_25/index.html",
-    "main.da28c40f.css.map": "/valentines_day_25/static/css/main.da28c40f.css.map",
-    "main.f8a396bf.js.map": "/valentines_day_25/static/js/main.f8a396bf.js.map"
+    "main.8c503a44.css.map": "/valentines_day_25/static/css/main.8c503a44.css.map",
+    "main.e140feaf.js.map": "/valentines_day_25/static/js/main.e140feaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.da28c40f.css",
-    "static/js/main.f8a396bf.js"
+    "static/css/main.8c503a44.css",
+    "static/js/main.e140feaf.js"
   ]
 }
