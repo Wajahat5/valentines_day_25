@@ -1,17 +1,27 @@
 {
   "files": {
     "main.css": "/valentines_day_25/static/css/main.8c503a44.css",
-    "main.js": "/valentines_day_25/static/js/main.e140feaf.js",
+    "main.js": "/valentines_day_25/static/js/main.73020ca7.js",
     "static/media/Aylex_Sounds_of_Nature.mp3": "/valentines_day_25/static/media/Aylex_Sounds_of_Nature.02577395af0b48cdba81.mp3",
+    "static/media/cake1.jpeg": "/valentines_day_25/static/media/cake1.7400fc7f1c02d8f82b89.jpeg",
     "static/media/onBike.jpeg": "/valentines_day_25/static/media/onBike.eb94ac6c30eb96be0275.jpeg",
     "static/media/withKinderJoy.jpeg": "/valentines_day_25/static/media/withKinderJoy.f083bc0d9b87019273dc.jpeg",
+    "static/media/scooty.jpeg": "/valentines_day_25/static/media/scooty.6a60d88e49b7ccb7764c.jpeg",
+    "static/media/gym.jpeg": "/valentines_day_25/static/media/gym.d820ae9b5cc9d3066a24.jpeg",
+    "static/media/onThighs2.jpeg": "/valentines_day_25/static/media/onThighs2.cf5a5647f57c742fb53f.jpeg",
+    "static/media/hmBar.jpeg": "/valentines_day_25/static/media/hmBar.48c66066d4088cf59fe0.jpeg",
+    "static/media/cake2.jpeg": "/valentines_day_25/static/media/cake2.d4072aea110db111a402.jpeg",
+    "static/media/windsong.jpeg": "/valentines_day_25/static/media/windsong.abf5a18d7193ba67a568.jpeg",
+    "static/media/carSelfieSmiling.jpeg": "/valentines_day_25/static/media/carSelfieSmiling.6302386fe208175b61de.jpeg",
+    "static/media/carSelfie.jpeg": "/valentines_day_25/static/media/carSelfie.df55159129b4d579817a.jpeg",
     "static/media/onThighs.jpeg": "/valentines_day_25/static/media/onThighs.ecf61dd23a81008b4614.jpeg",
+    "static/media/firstDate.jpeg": "/valentines_day_25/static/media/firstDate.38d1a7ac97449cb58d61.jpeg",
     "index.html": "/valentines_day_25/index.html",
     "main.8c503a44.css.map": "/valentines_day_25/static/css/main.8c503a44.css.map",
-    "main.e140feaf.js.map": "/valentines_day_25/static/js/main.e140feaf.js.map"
+    "main.73020ca7.js.map": "/valentines_day_25/static/js/main.73020ca7.js.map"
   },
   "entrypoints": [
     "static/css/main.8c503a44.css",
-    "static/js/main.e140feaf.js"
+    "static/js/main.73020ca7.js"
   ]
 }
