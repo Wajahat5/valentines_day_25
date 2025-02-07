@@ -64,7 +64,7 @@ const cards = [
 
 const App = () => {
   const [isPlaying, setIsPlaying] = useState(false);
-  const [flipped, setFlipped] = useState(Array(cards.length).fill(false));
+  const [flipped, setFlipped] = useState(-1);
   // const audio = new Audio(song); // Replace with actual file path
   const [audio, setAudio] = useState( new Audio(song))
   audio.loop = true;
@@ -79,11 +79,8 @@ const App = () => {
   };
 
   const handleFlip = (index) => {
-    setFlipped((prev) => {
-      const newFlipped = [...prev];
-      newFlipped[index] = !newFlipped[index];
-      return newFlipped;
-    });
+    if(index == flipped) setFlipped(-1);
+    else setFlipped(index);
   };
 
   return (
@@ -121,7 +118,7 @@ const App = () => {
         {cards.map((card, index) => (
           <div
             key={index}
-            className={`flip-card ${flipped[index] ? "flipped" : ""}`}
+            className={`flip-card ${flipped == index ? "flipped" : ""}`}
             onClick={() => handleFlip(index)}
           >
             <div className="flip-card-inner">
@@ -129,7 +126,9 @@ const App = () => {
                 <h3>{card.title}</h3>
               </div>
               <div className="flip-card-back">
-                <img src={card.image} alt={card.title} className="card-image" />
+                <div class="card-image">
+                  <img src={card.image} alt={card.title} />
+                </div>
                 <p>{card.message}</p>
               </div>
             </div>
