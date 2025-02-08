@@ -22,7 +22,7 @@ const cards = [
         title: 'When You Are Lonely',
         image: onBike,
         message:
-            'Look up at the sky, my love. The same moon and stars shine over us both, connecting our hearts across the distance. You are never alone—I am always with you.',
+            'Look up at the sky, my love. The same moon and stars shine over us both, connecting our hearts across the distance. You are never alone. I am always with you.',
     },
     {
         title: 'When You Miss Me',
@@ -52,7 +52,7 @@ const cards = [
         title: 'When You Need Motivation',
         image: gym,
         message:
-            'You are capable of incredible things. I’ve seen your strength, your passion, and your kindness. Keep going, my love—I’m cheering for you every step of the way!',
+            'You are capable of incredible things. I’ve seen your strength, your passion, and your kindness. Keep going, my love. I’m cheering for you every step of the way!',
     },
     {
         title: 'When You Want to Feel Loved',
@@ -70,7 +70,7 @@ const cards = [
         title: 'When You Need a Warm Hug',
         image: onThighs2,
         message:
-            'Wrap yourself in a blanket and imagine it’s my arms holding you tight. One day soon, it won’t be imaginary—I’ll be there for real.',
+            'Wrap yourself in a blanket and imagine it’s my arms holding you tight. One day soon, it won’t be imaginary. I’ll be there for real.',
     },
     {
         title: 'When You Want to Hear My Voice',
@@ -115,9 +115,9 @@ const App = () => {
             >
                 <h1>To My Love, Zafrin 💖</h1>
                 <p>
-                    No matter how far apart we are, our love remains
-                    unshaken—woven with trust, strengthened by time, and bound
-                    by the promise of forever.
+                    No matter how far apart we are, our love remains unshaken,
+                    woven with trust, strengthened by time, and bound by the
+                    promise of forever.
                 </p>
                 <p>
                     Miles may separate us, but my love for you knows no bounds.
