@@ -64,7 +64,7 @@ const cards = [
         title: 'When You Can’t Sleep',
         image: hmBar,
         message:
-            'Imagine me whispering a soft lullaby in your ear, telling you how much I love you. Close your eyes, my love, and dream of us.',
+            'Close your eyes, my love, and imagine me whispering softly in your ear. Feel my gentle touch, my reassuring presence. You’re safe, and I’m here to guide you into a peaceful slumber',
     },
     {
         title: 'When You Need a Warm Hug',
