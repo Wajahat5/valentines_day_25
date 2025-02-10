@@ -40,7 +40,7 @@ const cards = [
         title: 'When You Need a Smile',
         image: carSelfieSmiling,
         message:
-            'Imagine me telling a really bad joke right now. (You are the number 1 queen!) See? You’re smiling already. You’re the most beautiful when you do.',
+            'Imagine me telling a really bad joke right now. (Tell Mrs. Rosie i said hi 😉) See? You’re smiling already. You’re the most beautiful when you do.',
     },
     {
         title: 'When You Are Feeling Down',
