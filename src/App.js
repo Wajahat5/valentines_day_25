@@ -46,7 +46,7 @@ const cards = [
         title: 'When You Are Feeling Down',
         image: scooty,
         message:
-            'You are the light of my life, and no amount of darkness can ever dim your shine. I love you more than words can ever say.',
+            'You are the light of my life, and no amount of darkness can ever dim your shine. This tough moment will pass, and brighter days are ahead. I’m here to lift you up, always.',
     },
     {
         title: 'When You Need Motivation',
@@ -115,14 +115,16 @@ const App = () => {
             >
                 <h1>To My Love, Zafrin 💖</h1>
                 <p>
-                    No matter how far apart we are, our love remains unshaken,
-                    woven with trust, strengthened by time, and bound by the
-                    promise of forever.
+                    Even though miles separate us, my love for you knows no
+                    distance. Every day, I carry you in my thoughts, my heart,
+                    and my dreams. You are my constant reminder that love
+                    transcends time and space.
                 </p>
                 <p>
-                    Miles may separate us, but my love for you knows no bounds.
-                    Every heartbeat whispers your name, and every thought holds
-                    you close.
+                    This little gift is a reminder that no matter how far apart
+                    we are, you’re my favorite person in the world. I can’t wait
+                    to close the distance and make up for all the hugs, laughs,
+                    and adventures we’ve missed.
                 </p>
                 <p>
                     Flip these cards to reveal little pieces of my love, made
